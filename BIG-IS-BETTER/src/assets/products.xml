@@ -1,0 +1,14 @@
+<catalog>
+  <product>
+    <id>1</id>
+    <name>Juguete para mujer</name>
+    <precio>250</precio>
+    <descripcion>Hecho de silicón</descripcion>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Juguete para hombres</name>
+    <precio>120</precio>
+    <descripcion>Hecho en China</descripcion>
+  </product>
+</catalog>
